@@ -1,0 +1,5 @@
+c:\users\salas\documents\visual studio 2015\Projects\DigitalPersona\DigitalPersona\bin\Debug\DigitalPersona.exe.config
+c:\users\salas\documents\visual studio 2015\Projects\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.csprojResolveAssemblyReference.cache
+c:\users\salas\documents\visual studio 2015\Projects\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.Form1.resources
+c:\users\salas\documents\visual studio 2015\Projects\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.Properties.Resources.resources
+c:\users\salas\documents\visual studio 2015\Projects\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.csproj.GenerateResource.Cache

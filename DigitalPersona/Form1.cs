@@ -119,8 +119,7 @@ namespace DigitalPersona
                     try
                     {
 
-regFeatures[fingerCount] = ExtractFeatures(sample,
-DPFP.Processing.DataPurpose.Enrollment);
+                        regFeatures[fingerCount] = ExtractFeatures(sample,DPFP.Processing.DataPurpose.Enrollment);
                         if (regFeatures[fingerCount] != null)
                         {
                             string b64 =
@@ -297,9 +296,7 @@ else
                 comandodb.CommandType = CommandType.StoredProcedure;
                 comandodb.Parameters.AddWithValue("@huella", huella);
                 comandodb.Parameters.AddWithValue("@nombres", textBox1.Text);
-                comandodb.Parameters.Add("@msj", SqlDbType.VarChar, 60).Direction
-               =
-                ParameterDirection.Output;
+                comandodb.Parameters.Add("@msj", SqlDbType.VarChar, 60).Direction = ParameterDirection.Output;
                 comandodb.ExecuteNonQuery();
                 MessageBox.Show(comandodb.Parameters["@msj"].Value + "");
                 if (f.conexion.State == ConnectionState.Open)

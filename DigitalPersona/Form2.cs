@@ -95,7 +95,7 @@ namespace DigitalPersona
         {
             this.Invoke(new Functionz(delegate ()
             {
-                tbInfo.Text = "Captura Completa";
+                textBox1.Text = "Captura Completa";
             }));
             this.Invoke(new Functionz(delegate ()
             {
@@ -222,28 +222,28 @@ namespace DigitalPersona
         {
             this.Invoke(new Functionz(delegate ()
             {
-                tbInfo.Text = "Huella leída";
+                textBox1.Text = "Huella leída";
             }));
         }
         public void OnFingerTouch(object Capture, string ReaderSerialNumber)
         {
             this.Invoke(new Functionz(delegate ()
             {
-                tbInfo.Text = "Leyendo huella";
+                textBox1.Text = "Leyendo huella";
             }));
         }
         public void OnReaderConnect(object Capture, string ReaderSerialNumber)
         {
             this.Invoke(new Functionz(delegate ()
             {
-                tbInfo.Text = "Lector Conectado";
+                textBox1.Text = "Lector Conectado";
             }));
         }
         public void OnReaderDisconnect(object Capture, string ReaderSerialNumber)
         {
             this.Invoke(new Functionz(delegate ()
             {
-                tbInfo.Text = "Lector Desconectado"; MessageBox.Show("readercount: " + readers.Count);
+                textBox1.Text = "Lector Desconectado"; MessageBox.Show("readercount: " + readers.Count);
             }));
         }
         public void OnSampleQuality(object Capture, string ReaderSerialNumber,
@@ -278,6 +278,6 @@ namespace DigitalPersona
         {
             capturer.StopCapture();
         }
-       
+
     }
 }

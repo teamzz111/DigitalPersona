@@ -18,3 +18,13 @@ C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\D
 C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\bin\Debug\DPFPVerNET.dll
 C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\obj\Debug\DigitalPersona.exe
 C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\obj\Debug\DigitalPersona.pdb
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\bin\Debug\DigitalPersona.exe.config
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.exe
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.pdb
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\bin\Debug\DigitalPersona.exe
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\bin\Debug\DigitalPersona.pdb
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.csprojResolveAssemblyReference.cache
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.Form1.resources
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.Form2.resources
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.Properties.Resources.resources
+C:\Users\salas\Desktop\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.csproj.GenerateResource.Cache

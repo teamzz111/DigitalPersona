@@ -70,7 +70,7 @@
             this.button2.TabIndex = 6;
             this.button2.Text = "Registrar huella";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button1_Click);
+
             // 
             // pbImage
             // 

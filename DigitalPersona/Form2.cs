@@ -29,7 +29,7 @@ namespace DigitalPersona
         DPFP.FeatureSet verFeatures;
         DPFP.Processing.Enrollment createRegTemplate;
         DPFP.Verification.Verification verify;
-        DPFP.Capture.SampleConversion converte;
+        DPFP.Capture.SampleConversion converter;
         public Form2()
         {
             InitializeComponent();
@@ -89,6 +89,11 @@ namespace DigitalPersona
                     MessageBox.Show(ex.Message);
                 }
             }
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
         }
 
         public void OnComplete(object obj, string info, DPFP.Sample sample)

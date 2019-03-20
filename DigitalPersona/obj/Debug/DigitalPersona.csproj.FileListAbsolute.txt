@@ -3,3 +3,18 @@ c:\users\salas\documents\visual studio 2015\Projects\DigitalPersona\DigitalPerso
 c:\users\salas\documents\visual studio 2015\Projects\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.Form1.resources
 c:\users\salas\documents\visual studio 2015\Projects\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.Properties.Resources.resources
 c:\users\salas\documents\visual studio 2015\Projects\DigitalPersona\DigitalPersona\obj\Debug\DigitalPersona.csproj.GenerateResource.Cache
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\bin\Debug\DigitalPersona.exe.config
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\obj\Debug\DigitalPersona.csprojResolveAssemblyReference.cache
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\obj\Debug\DigitalPersona.Form1.resources
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\obj\Debug\DigitalPersona.Form2.resources
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\obj\Debug\DigitalPersona.Properties.Resources.resources
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\obj\Debug\DigitalPersona.csproj.GenerateResource.Cache
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\bin\Debug\DigitalPersona.exe
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\bin\Debug\DigitalPersona.pdb
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\bin\Debug\DPFPDevNET.dll
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\bin\Debug\DPFPEngNET.dll
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\bin\Debug\DPFPGuiNet.dll
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\bin\Debug\DPFPShrNET.dll
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\bin\Debug\DPFPVerNET.dll
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\obj\Debug\DigitalPersona.exe
+C:\Users\Freddys Simanca\Downloads\DigitalPersona-master\DigitalPersona-master\DigitalPersona\obj\Debug\DigitalPersona.pdb
